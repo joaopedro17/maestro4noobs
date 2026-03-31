@@ -77,6 +77,7 @@ Ideal para quem está começando em QA mobile ou quer uma alternativa mais simpl
 | [Testes Paralelos](5-Avancado/2-Testes-paralelos.md) | Executando em múltiplos dispositivos |
 | [CI/CD](5-Avancado/3-CI-CD.md) | Integração com GitHub Actions |
 | [Maestro Cloud](5-Avancado/4-Cloud-testing.md) | Executando testes na nuvem |
+| [EAS Workflows](5-Avancado/5-EAS-Workflows.md) | Alternativa para apps Expo: build + testes integrados no EAS |
 
 ---
 
